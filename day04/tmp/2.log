@@ -1,0 +1,9 @@
+2019-03-10 11:51:28,886 day04_user_logging.py 12 <module> DEBUG 调试级别的日志
+2019-03-10 11:51:28,886 day04_user_logging.py 13 <module> INFO 信息级别的日志
+2019-03-10 11:51:28,887 day04_user_logging.py 14 <module> WARNING 警告级别的日志
+2019-03-10 11:51:28,887 day04_user_logging.py 15 <module> ERROR 错误级别的日志
+2019-03-10 11:51:28,887 day04_user_logging.py 16 <module> CRITICAL 严重错误级别的日志
+2019-03-10 11:54:58,324 db.py 28 is_card_exist DEBUG 查询卡：heng1111111111111是否存在
+2019-03-10 11:54:58,324 db.py 13 query DEBUG 查询SQL:select cardNumber from cardinfo where cardNumber = 'heng1111111111111'
+2019-03-10 11:54:58,367 db.py 16 query DEBUG 查询结果:()
+2019-03-10 11:54:58,367 db.py 35 is_card_exist DEBUG 该卡不存在
